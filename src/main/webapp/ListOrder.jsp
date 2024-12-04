@@ -2,13 +2,7 @@
 <%@ page import="java.util.Date" %>
 <%@ page import="com.example.baikiemtragki.OrderServlet" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %> <%--
-  Created by IntelliJ IDEA.
-  User: ADMIN
-  Date: 12/4/2024
-  Time: 2:03 PM
-  To change this template use File | Settings | File Templates.
---%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
