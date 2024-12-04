@@ -4,10 +4,8 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
     <welcome-file-list>
-<<<<<<< HEAD
-        <welcome-file>ListOrder.jsp</welcome-file>
-=======
-        <welcome-file>product.jsp</welcome-file>
->>>>>>> 46ed210245771a319757b2f43675047b3858c986
+
+        <welcome-file>movie.jsp</welcome-file>
+
     </welcome-file-list>
 </web-app>
